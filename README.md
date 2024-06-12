@@ -63,4 +63,4 @@ You can preview the production build with `npm run preview`.
 
 ### Certification
 
-![](https://ibb.co/smnRkrv)
+![](https://i.postimg.cc/vH6NB66D/Cam-Scanner-03-08-2024-16-33.png)
